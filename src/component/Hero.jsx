@@ -40,7 +40,7 @@ const Hero = () => {
                     <div>
 
                         <div className="flex gap-0 outline outline-offset-4 outline-1 mt-4 lg:mt-12  mb-4 lg:mb-12 w-[200px] lg:w-[220px] items-center rounded-lg">
-                            <div><a href="./Resume of Irfan Ali.pdf" className="text-black font-bold ml-4" download> Download Resume  </a> </div>
+                            <div><a href="./Resume_of_Irfan_Ali.pdf" className="text-black font-bold ml-4" download> Download Resume  </a> </div>
                             <div><Lottie className=" w-8 lg:w-12" animationData={down} /></div>
 
                         </div>
